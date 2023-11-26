@@ -1,0 +1,27 @@
+{
+  "name": "my-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vuepic/vue-datepicker": "^7.2.2",
+    "axios": "^1.5.1",
+    "core-js": "^3.8.3",
+    "jwt-decode": "^4.0.0",
+    "vue": "^3.3.8",
+    "vue-router": "^4.0.3",
+    "vuelidate": "^0.7.7",
+    "vuetify": "^3.3.17",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.2.96",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
